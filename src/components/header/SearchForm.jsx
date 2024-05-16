@@ -18,12 +18,12 @@ function SearchForm() {
     <form className="search-form" onSubmit={handleSubmit}>
       <input
         className="search-input"
-        placeholde="Search product..."
+        placeholder="Search Product..."
         type="search"
         value={query}
         onChange={handleInputChange}
       />
-      <button className="search-button" type="submit">Поиск</button>
+      <button className="search-button" type="submit">Search</button>
     </form>
   );
 }

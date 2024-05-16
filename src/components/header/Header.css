@@ -1,6 +1,5 @@
 .header{
     color: #FFB321;
-    padding: 17px, 0px, 17px, 0px;
 }
 
 .header_row{
@@ -8,7 +7,6 @@
     width: 1168px;
     height: 86px;
     justify-content: space-between;
-    padding: 17px, 0px, 17px, 0px;
 }
 
 .header_logo{
@@ -18,7 +16,7 @@
     size: 30px;
     line-height: 30px;
     font-weight: 800;
-    margin-left: 316px;
+    margin-left: 260px;
     margin-top: 25px;
     font-size: 20px;
 }
@@ -28,11 +26,103 @@
     width: 1168px;
     height: 86px;
     justify-content: space-between;
-    padding: 17px, 0px, 17px, 0px;
 }
 .icon{
     margin-top: 3.4px;
     margin-right: 6px;
     width: 25px;
     height: 25px;
+}
+
+.widgetwrapper{
+    font-family: 'Inter';
+    background-color: #FFB321;
+    width: 1920px;
+    height: 60px;
+}
+
+.notes{
+    margin-top: 26px;
+    width: 32px;
+    height: 32px;
+    padding: 3px;
+    margin-left: 3.5px;
+}
+
+.wfull{
+    display: flex;
+    width: 1168px;
+    height: 60px;
+    justify-content: space-between;
+}
+
+.category{
+    display: flex;
+    width: 1007px;
+    height: 60px;
+    justify-content: space-between;
+}
+
+.nav{
+    display: flex;
+    color: black;
+    width: 248.01px;
+    height: 60px;
+}
+
+.list{
+    display: flex;
+    padding-top: 20px;
+    font-family: 'Inter';
+    margin-left: 584px;
+    padding-bottom: 30px;
+    font-weight: 465;
+    color: black;
+    width: 248.01px;
+    height: 60px;
+    gap: 20px;
+}
+
+.become{
+    gap: 5px;
+    display: flex;
+    font-family: 'Inter';
+    color: black;
+    width: 161px;
+    height: 30px;
+    border-color: black;
+    border-radius: 2px;
+    margin-left: 200px;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding-bottom: 20px;
+
+}
+
+.link{
+    width: 161px;
+    height: 40px;
+    border-radius: 3px;
+    border: 1px;
+    border-color: black;
+}
+
+.tex{
+    margin-left: 650px;
+    width: 143.5px;
+    height: 20px;
+    gap: 7.5px;
+}
+
+.hx{
+    width: 130px;
+    height: 20px;
+
+}
+
+.hui{
+    font-family: 'Inter';
+    color: black;
+    margin-left: 300px;
+
 }
