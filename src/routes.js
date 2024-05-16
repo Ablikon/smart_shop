@@ -3,7 +3,7 @@ import { ADMIN_ROUTE, BASKET_ROUTE, DEVICE_ROUTE, LOGIN_ROUTE, REGISTRATION_ROUT
 import Basket from "./pages/Basket"
 import Shop from "./pages/Shop"
 import Auth from "./pages/Auth"
-import DevicePage from "./pages/ProductPage"
+import DevicePage from "./pages/DevicePage"
 
 export const authRoutes = [
     {
